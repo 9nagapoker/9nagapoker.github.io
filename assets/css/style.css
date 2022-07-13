@@ -3,7 +3,7 @@
 }
 
 body {
-  background-image: url(/9nagapoker/assets/images/bg.jpg?v=1);
+  background-image: url(https://9nagapoker.github.io/assets/images/bg.jpg?v=1);
   background-position-y: -80px;
   padding: 0;
   font-family: Arial;
@@ -84,6 +84,7 @@ h1 {
   text-decoration: none;
   background-color: #10151c;
   border-bottom: 1px solid yellow;
+  cursor: pointer;
 }
 
 .containerimg {
@@ -131,7 +132,7 @@ h1 {
 
 .svg-playnow-gold {
   display: inline-block;
-  background-image: url(../images/icons/icon-tap-click2.svg);
+  background-image: url(https://9nagapoker.github.io/assets/images/icons/icon-tap-click2.svg);
   background-size: cover;
   height: 35px;
   margin-bottom: -5px;
@@ -141,7 +142,7 @@ h1 {
 
 .play-now {
   display: inline-block;
-  background-image: url(../images/Play-Now-Button.png);
+  background-image: url(https://9nagapoker.github.io/assets/images/Play-Now-Button.png);
   background-size: cover;
   height: 60px;
   margin-bottom: -15px;
@@ -271,7 +272,7 @@ h1 {
 }
 
 .modal-content {
-  background-image: url(/9nagapoker/assets/images/bg.jpg?v=1);
+  background-image: url(https://9nagapoker.github.io/assets/images/bg.jpg?v=1);
   width: 80%;
   margin-top: 100px;
   margin-left: 50px;
@@ -297,7 +298,7 @@ h1 {
 }
 
 .svg-close-o {
-  background: url(/rkm/assets/images/icons/close-o.svg) center no-repeat;
+  background: url(https://9nagapoker.github.io/assets/images/icons/close-o.svg) center no-repeat;
   background-size: 28px;
   opacity: unset;
   height: 30px;
@@ -306,13 +307,13 @@ h1 {
 
 .svg-user {
   display: inline-block;
-  background: url(/rkm/assets/images/icons/user.svg) center no-repeat;
+  background: url(https://9nagapoker.github.io/assets/images/icons/user.svg) center no-repeat;
   background-size: 21px;
 }
 
 .svg-lock {
   display: inline-block;
-  background: url(/rkm/assets/images/icons/lock.svg) center no-repeat;
+  background: url(https://9nagapoker.github.io/assets/images/icons/lock.svg) center no-repeat;
   background-size: 21px;
 }
 
@@ -400,26 +401,26 @@ h1 {
   width: 22px;
   height: 22px;
   margin-left: -5px;
-  background: url(../images/footer/indicator-.png) 0 0 no-repeat;
+  background: url(https://9nagapoker.github.io/assets/images/footer/indicator-.png) 0 0 no-repeat;
   margin-top: 12px;
 }
 
 .listbank .bca {
-  background: url(../images/footer/thebanks.png?v=666) no-repeat -17px -25px;
+  background: url(https://9nagapoker.github.io/assets/images/footer/thebanks.png?v=666) no-repeat -17px -25px;
   width: 69px;
   height: 20px;
   margin: 11px 0 0 -25px;
 }
 
 .listbank .bni {
-  background: url(../images/footer/thebanks.png?v=666) no-repeat -179px -27px;
+  background: url(https://9nagapoker.github.io/assets/images/footer/thebanks.png?v=666) no-repeat -179px -27px;
   width: 65px;
   height: 18px;
   margin: 14px 0 0 -28px;
 }
 
 .listbank .bri {
-  background: url(../images/footer/thebanks.png?v=666) no-repeat -251px -26px;
+  background: url(https://9nagapoker.github.io/assets/images/footer/thebanks.png?v=666) no-repeat -251px -26px;
   width: 87px;
   height: 19px;
   margin: 14px 0 0 -7px;
@@ -533,7 +534,7 @@ h1 {
 }
 
 .payment-bank-logo>div {
-  background: url(/rkm/assets/images/icons/footer/bank.webp) no-repeat;
+  background: url(https://9nagapoker.github.io/assets/images/icons/footer/bank.webp) no-repeat;
   background-size: 160%;
   width: 100px;
   height: 18px;
@@ -768,11 +769,11 @@ h1 {
 }
 
 .footer .partners-and-banks .icon.icon-ft-pagcor {
-  background: url(/rkm/assets/images/icons/footer/pagcor.png) center no-repeat;
+  background: url(https://9nagapoker.github.io/assets/images/icons/footer/pagcor.png) center no-repeat;
 }
 
 .footer .text-statement .icon.icon-ft-device-support {
-  background: url(/rkm/assets/images/icons/footer/device-support.png) no-repeat;
+  background: url(https://9nagapoker.github.io/assets/images/icons/footer/device-support.png) no-repeat;
   height: 30px;
   width: 145px;
   margin: 0 auto;
@@ -846,7 +847,7 @@ h1 {
 }
 
 .rules-agreement-logo {
-  background: url(/rkm/assets/images/icons/footer/footer.png) no-repeat;
+  background: url(https://9nagapoker.github.io/assets/images/icons/footer/footer.png) no-repeat;
   background-size: 600px 45px;
   padding-top: 45px;
   width: 600px;
@@ -884,7 +885,7 @@ h1 {
 }
 
 .footer .statement-img li a {
-  background: url("../img/icon/ftr-ico.png");
+  background: url("https://9nagapoker.github.io/assets/images/icons/footer/ftr-ico-v5.png");
   background-position: -0px 0px;
   background-repeat: no-repeat;
 }
@@ -959,6 +960,11 @@ hr.disclaimer-line {
   margin-bottom: 2px !important;
 }
 
+.home2 {
+  flex: none;
+  max-width: 20%;
+}
+
 .home-interface__menu__item__title {
   color: #FFFFFF;
   text-transform: uppercase;
@@ -971,7 +977,7 @@ hr.disclaimer-line {
 }
 
 .home-menu__ico--slots {
-  background: url(/rkm/assets/images/home/slotsicon.webp);
+  background: url(https://9nagapoker.github.io/assets/images/home/slotsicon.webp);
   background-size: 25px !important;
   background-position: 0px 5px;
   width: 30px;
@@ -979,7 +985,7 @@ hr.disclaimer-line {
 }
 
 .home-menu__ico--esport {
-  background: url(/rkm/assets/images/home/esporticon.webp);
+  background: url(https://9nagapoker.github.io/assets/images/home/esporticon.webp);
   background-size: 12px !important;
   background-position: 0px 3px;
   width: 14px;
@@ -987,7 +993,7 @@ hr.disclaimer-line {
 }
 
 .home-menu__ico--poker {
-  background: url(/rkm/assets/images/home/pokericon.webp);
+  background: url(https://9nagapoker.github.io/assets/images/home/pokericon.webp);
   background-size: 19px !important;
   background-position: 10px 0px;
   width: 30px;
@@ -995,7 +1001,7 @@ hr.disclaimer-line {
 }
 
 .home-menu__ico--sportsbook {
-  background: url(/rkm/assets/images/home/sportsbookicon.webp);
+  background: url(https://9nagapoker.github.io/assets/images/home/sportsbookicon.webp);
   background-size: 19px !important;
   background-position: 10px 3px;
   width: 30px;
@@ -1003,7 +1009,7 @@ hr.disclaimer-line {
 }
 
 .home-menu__ico--casino {
-  background: url(/rkm/assets/images/home/casinoicon.webp);
+  background: url(https://9nagapoker.github.io/assets/images/home/casinoicon.webp);
   background-size: 16px !important;
   background-position: 10px 0px;
   width: 30px;
@@ -1011,7 +1017,7 @@ hr.disclaimer-line {
 }
 
 .home-menu__ico--roulette {
-  background: url(/rkm/assets/images/home/slotsicon.webp);
+  background: url(https://9nagapoker.github.io/assets/images/home/slotsicon.webp);
   background-size: 25px !important;
   background-position: 0px 5px;
   width: 30px;
@@ -1055,15 +1061,33 @@ hr.disclaimer-line {
 }
 
 /* JP progress */
+
+.mi {
+  width: 100%;
+  height: 80px;
+  background-color: #111111 !important;
+  border-top: 5px solid #460000;
+  border-bottom: 5px solid #460000;
+}
+
 .jackpot {
-  border-radius: 8px;
-  border: 5px solid #460000;
-  /* padding-top: 0; */
-  /* padding-bottom: 0; */
   position: relative;
+  width: 100%;
+  height: 40px;
+  top: 0;
   text-align: center;
-  margin-top: -10px;
-  margin-bottom: 10px;
+}
+
+.jackpot__counter {
+  width: 300px;
+  height: 61px;
+  margin-left: 20px;
+  color: #ff6a00;
+  font-family: audiowide_regular;
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: left;
+  text-shadow: 1px 1px 0px rgb(255 255 255 / 90%);
 }
 
 /* casino */
@@ -1124,6 +1148,15 @@ more-info:hover {
 
 
 @media screen and (max-device-width: 480px) {
+  .jackpot__counter {
+    font-family: audiowide_regular;
+    font-size: 20px;
+  }
+
+  .jackpot {
+    top: 5px;
+  }
+
   .modal-content {
     width: 100%;
     margin-top: 80px;
@@ -1218,6 +1251,20 @@ more-info:hover {
     height: auto;
     object-fit: cover;
   }
+
+  .mi {
+    height: 80px;
+  }
+
+  .jackpot__counter {
+    font-family: audiowide_regular;
+    font-size: 20px;
+  }
+
+  .home2 {
+    max-width: 50%;
+  }
+
 }
 
 @media screen and (max-device-width: 928px) {

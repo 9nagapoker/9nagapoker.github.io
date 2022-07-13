@@ -436,7 +436,9 @@ figure.effect-hera {
 }
 
 figure.effect-hera h2 {
-    font-size: 120%;
+    font-size: 70%;
+    color: #0089ff;
+    font-weight: 700;
 }
 
 figure.effect-hera h2,
